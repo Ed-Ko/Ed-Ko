@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning, Network System Administration
 - 💞️ I’m looking for opportunities to get in Metaverse
 - 📫 How to reach me 
--     Email : 
+-     Email : edison072715@gmail.com
 
 <!---
 Ed-Ko/Ed-Ko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
